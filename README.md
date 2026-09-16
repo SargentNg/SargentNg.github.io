@@ -3,7 +3,7 @@
 ### US Army Operations Research Officer with Financial Management background. 
 
 **Interested in:** Data Analysis, AI/ML, Data Visualization, Real Estate & Capital Investment, Decision Support Tools.
----
+
 ### ☎ Contact Me
 **Email:** jonathankn9@gmail.com  
 **GitHub:** https://sargentng.github.io/  
@@ -23,8 +23,6 @@
 * **Languages & Analytics:** Python, R, VBA, C
 * **Infrastructure & Networking:** Home lab, on premises LLM Multi-GPU deployment. Actively explores AI applications across finance, automation, and real‑world problem‑solving.
 * **AI & Local Compute:**  Actively explores AI applications across finance, automation, and real‑world problem‑solving.
-
----
 
 ### 🔬 What I Do
 
