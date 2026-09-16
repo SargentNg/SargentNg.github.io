@@ -5,9 +5,9 @@
 * **Interested in:** Data Analysis, AI/ML, Data Visualization, Real Estate & Capital Investment, Decision Support Tools.
 ---
 ### ☎ Contact Me
-**Email:** jonathankn9@gmail.com 
-**GitHub:** https://sargentng.github.io/
-**Linkedin:** https://www.linkedin.com/in/jonathankng/
+**Email:** jonathankn9@gmail.com  
+**GitHub:** https://sargentng.github.io/  
+**Linkedin:** https://www.linkedin.com/in/jonathankng/  
 
 ### 💬 Current Role
 
