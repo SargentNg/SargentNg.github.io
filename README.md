@@ -17,6 +17,7 @@
 * Direct quantitative decision analysis, operational assessments, and predictive modeling frameworks for enterprise‑level operations.
 * Develop structured decision‑support tools and analytical models for complex military and financial systems.
 * Integrate data science, optimization, and computational methods into operational planning.
+* Automate analytical workflows and data pipelines
 
 ### 🛠 Skills
 
@@ -27,6 +28,7 @@
 ### 🔬 What I Do
 
 - 📊 **Operational Modeling and Decision Support:** Designing quantitative assessment frameworks, scorecard simulations, and decision-support tools for complex, large-scale systems, financial strategy
+- 🤖 **Workflow and Data Pipeline automation:** Automate to reduce manual effort, improve repeatability, and deliver timely decision support
 - 🖥️ **Self-Hosted AI & Compute:** Build and operate on-premises, multi-GPU server to execute local open-weights LLMs with complete privacy, high throughput, and zero external latency.
 - 🤖 **Applied AI in Finance & Automation:** Exploring and developing AI/ML solutions to solve real-world problems, optimize financial portfolios, and automate data analysis pipelines.
 - 🕹️ **Values & Approach:** Defined by structured reasoning, discipline and consistency, practical engineering mindset, long‑term planning, continuous learning, mission‑oriented execution
