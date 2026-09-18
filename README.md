@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan Ng 👋
 
-### US Army Operations Research Officer with Financial Management background. 
+### US Army Operations Research Officer with background in Financial Management. 
 
 * **Interested in:** Data Analysis, AI/ML, Data Visualization, Real Estate & Capital Investment, Decision Support Tools.
 
