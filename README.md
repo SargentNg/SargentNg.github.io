@@ -20,7 +20,7 @@
 
 ### 🛠 Skills
 
-* **Languages & Analytics:** Python, R, VBA, C
+* **Languages & Analytics:** Python, R, VBA, SQL, C
 * **Infrastructure & Networking:** Home lab, on premises local-LLM multi-GPU compute, NAS, IoTs, managed 10GBE network. Remote property Edge Nodes with independent WAN uplink for localized automation, sensor aggregation, and wifi access. 
 * **AI & Local Compute:**  Actively explores AI applications across finance, automation, and real‑world problem‑solving.
 
