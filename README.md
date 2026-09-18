@@ -30,7 +30,7 @@
 - 📊 **Operational Modeling and Decision Support:** Designing quantitative assessment frameworks, scorecard simulations, and decision-support tools for complex, large-scale systems, financial strategy
 - 🤖 **Workflow and Data Pipeline automation:** Design workflows and implement data pipelines to reduce manual effort, improve repeatability, and deliver timely decision support
 - 🖥️ **Self-Hosted AI & Compute:** Build and operate on-premises, multi-GPU server to execute local open-weights LLMs with complete privacy, high throughput, and zero external latency.
-- 🤖 **Applied AI in Finance & Automation:** Exploring and developing AI/ML solutions to solve real-world problems, optimize financial portfolios, and automate data analysis pipelines.
+- 🤖 **Applied AI in Finance & Automation:** Exploring and developing AI/ML solutions to solve real-world problems, optimize and automate financial portfolio management systems, and automate data analysis pipelines.
 - 🕹️ **Values & Approach:** Defined by structured reasoning, discipline and consistency, practical engineering mindset, long‑term planning, continuous learning, mission‑oriented execution
 
 
