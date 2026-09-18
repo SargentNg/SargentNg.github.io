@@ -21,7 +21,7 @@
 ### 🛠 Skills
 
 * **Languages & Analytics:** Python, R, VBA, C
-* **Infrastructure & Networking:** Home lab, on premises multi-GPU LLM compute, NAS, IoTs, managed 10GBE network. 
+* **Infrastructure & Networking:** Home lab, on premises local-LLM multi-GPU compute, NAS, IoTs, managed 10GBE network. 
 * **AI & Local Compute:**  Actively explores AI applications across finance, automation, and real‑world problem‑solving.
 
 ### 🔬 What I Do
