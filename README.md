@@ -38,6 +38,6 @@
 
 ### 🌐 Side Projects
 
-* 🎓 **Continuing Education:** Data Science Certificate Student, Naval Postgraduate School
+* 🎓 **Continuing Education:** Data Science Student, Naval Postgraduate School
 * 📈 **Market Asset Valuation:** Analyzing secondary-market asset efficiencies, valuation models, and collectibles liquidity.
 * 🐕 **Life:** Dedicated hands-on builder and renovator
