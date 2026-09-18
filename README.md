@@ -2,7 +2,7 @@
 
 ### US Army Operations Research Officer with a background in Army Financial Management. 
 
-* **Interests:** Data Analytics, Artificial Intelligence/Machine Learning, Data Visualization, Real Estate & Capital Investment, Decision Support Tools.
+* **Interests:** Data Analytics, Artificial Intelligence and Machine Learning, Data Visualization, Real Estate & Capital Investment, Decision Support Tools.
 
 ### ☎ Contact Me
 **Email:** jonathankn9@gmail.com  
