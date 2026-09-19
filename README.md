@@ -1,3 +1,12 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jonathan K. Ng",
+  "email": "mailto:jonathan.k.ng.mil@army.mil"
+}
+</script>
+
 # Hi there, I'm Jonathan Ng 👋
 
 ### US Army Operations Research Officer with a background in Army Financial Management. 
