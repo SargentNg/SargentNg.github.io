@@ -29,7 +29,7 @@
 
 - 📊 **Operational Modeling and Decision Support:** Designing quantitative assessment frameworks, scorecard simulations, and decision-support tools for complex, large-scale systems, financial strategy
 - 🤖 **Workflow and Data Pipeline automation:** Design workflows and implement data pipelines to reduce manual effort, improve repeatability, and deliver timely decision support
-- 🖥️ **Self-Hosted AI & Compute:** Build and operate on-premises multi-GPU infrastructure (Nvidia RTX GPUs) leveraging Docker, Ollama prototyping, vLLM, and TensorRT-LLM for high-throughput, private local model serving.
+- 🖥️ **Self-Hosted AI & Compute:** Build and operate on-premises multi-GPU infrastructure (Nvidia RTX GPUs) leveraging Docker, llama.cpp prototyping, exllamav3, vLLM, TensorRT-LLM for high-throughput, private local model serving.
 - 🤖 **Applied AI in Finance & Automation:** Exploring and developing AI/ML solutions to solve real-world problems, optimize and automate financial portfolio management systems, and automate data analysis pipelines.
 - 🕹️ **Values & Approach:** Defined by structured reasoning, discipline and consistency, practical engineering mindset, long‑term planning, continuous learning, mission‑oriented execution
 
