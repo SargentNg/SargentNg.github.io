@@ -36,6 +36,10 @@
 
 ---
 
+### 📦 Projects
+
+* 🗂️ **[Archivist](https://github.com/SargentNg/Archivist):** Automated document archiving pipeline — continuously watches a scanner output folder, reads or OCRs each PDF, splits multi-document scans at detected page boundaries, classifies every document (source and type), invents an appropriate filename from its content, and tags each output with its digital/scanned provenance. Built in Python (PyMuPDF, watchdog, Tesseract) with LLM-assisted classification and naming against regex-rule fallbacks, and syncs the organized library to a shared OneDrive folder.
+
 ### 🌐 Side Projects
 
 * 🎓 **Continuing Education:** Data Science Student, Naval Postgraduate School
