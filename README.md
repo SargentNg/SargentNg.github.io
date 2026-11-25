@@ -39,6 +39,7 @@
 ### 📦 Projects
 
 * 🗂️ **[Archivist](https://github.com/SargentNg/Archivist):** Automated document archiving pipeline — continuously watches a scanner output folder, reads or OCRs each PDF, splits multi-document scans at detected page boundaries, classifies every document (source and type), invents an appropriate filename from its content, and tags each output with its digital/scanned provenance. Built in Python (PyMuPDF, watchdog, Tesseract) with LLM-assisted classification and naming against regex-rule fallbacks, and syncs the organized library to a shared OneDrive folder.
+* 📈 **[Daily-Markets-Reporter](https://github.com/SargentNg/Daily-Markets-Reporter):** Hourly market-hours stock news digest — fetches headlines for a set of US-listed tickers (Yahoo Finance RSS, Google News fallback), dedupes against a persistent state file, and emails only the items not seen before, scheduled via cron. Python stdlib only, zero dependencies.
 * 📊 **[CS4315 — ML & Data Mining](https://github.com/SargentNg/CS4315-Introduction-to-Machine-Learning-and-Data-Mining):** Coursework from the Naval Postgraduate School's Introduction to Machine Learning and Data Mining course, including a sector-ETF analysis project.
 * 📱 **[QR-Code-Generator](https://github.com/SargentNg/QR-Code-Generator):** Streamlit web app that generates QR codes for any URL or text string.
 
